@@ -2,6 +2,8 @@
 
 ## This is an encryption program that generate a secret message.
 
+Most of today's youth wants to send messages to our mates that unauthorized people couldn't read. It can be your project ideas, classwork, or a personal information. That's where a Secret message generator can be used.
+
 
   Suppose you enter a Message : Hello
   
