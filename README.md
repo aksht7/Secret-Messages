@@ -7,6 +7,6 @@
   
   It will ask you for a secret key through which you want your message to be encrypted
   
-  Enter a key : 5
+  Enter a key : 8
   
   Message will be encrypted and your secret message will be displayed. 
